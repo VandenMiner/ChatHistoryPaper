@@ -1,5 +1,5 @@
 # ChatHistoryPaper
 
-Плагин позволяет просматривать историю чата с помощью комманды - /chathistory
+The plugin allows you to view your chat history using the command - /chathistory
 
-Плагин записывает все сообщения от включения до выключения сервера
+The plugin records all messages from turning on to turning off the server 
